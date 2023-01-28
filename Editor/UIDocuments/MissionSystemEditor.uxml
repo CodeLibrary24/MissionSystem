@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/MissionSystem/Editor/UIDocuments/MissionSystemEditor.uss?fileID=7433441132597879392&amp;guid=573d6a745f85c9c4e948483a7bedae4d&amp;type=3#MissionSystemEditor" />
+</ui:UXML>
