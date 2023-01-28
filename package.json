@@ -8,7 +8,7 @@
   "licensesUrl": "https://ambargames.com/",
   "dependencies":
   {
-    "com.codelibray24.editorutilities": "1.0.0"
+    "https://github.com/CodeLibrary24/EditorUItilities.git": "1.0.0"
   },
   "keywords": [
     "Mission system",
