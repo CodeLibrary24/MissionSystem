@@ -1,0 +1,18 @@
+{
+    "name": "com.codelibrary24.missionsystem.editor",
+    "rootNamespace": "codelibrary24.missionsystem.editor",
+    "references": [
+        "GUID:2854e542eb446064bacca035ca0f84b7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
