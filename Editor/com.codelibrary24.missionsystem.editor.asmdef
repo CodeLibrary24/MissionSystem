@@ -2,7 +2,8 @@
     "name": "com.codelibrary24.missionsystem.editor",
     "rootNamespace": "CodeLibrary24.MissionSystem.Editor",
     "references": [
-        "GUID:2854e542eb446064bacca035ca0f84b7"
+        "GUID:2854e542eb446064bacca035ca0f84b7",
+        "GUID:807561e6298c13b49b6df01d59bf5307"
     ],
     "includePlatforms": [
         "Editor"

@@ -20,8 +20,6 @@ public class MissionSystemEditor : EditorWindow
     public void CreateGUI()
     {
         _root = rootVisualElement;
-
-        _container = m_VisualTreeAsset.Instantiate();
-        _root.Add(_container);
+        m_VisualTreeAsset.CloneTree(_root);
     }
 }
