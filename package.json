@@ -6,10 +6,6 @@
   "documentationUrl": "https://ambargames.com/",
   "changelogUrl": "https://ambargames.com/",
   "licensesUrl": "https://ambargames.com/",
-  "dependencies":
-  {
-    "https://github.com/CodeLibrary24/EditorUItilities.git": "1.0.0"
-  },
   "keywords": [
     "Mission system",
     "Missions",
