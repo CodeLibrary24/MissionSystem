@@ -1,0 +1,19 @@
+﻿{
+  "name": "com.codelibrary24.missionsystem",
+  "version": "1.0.0",
+  "displayName": "Mission System",
+  "description": "An editor tool in Unity that helps you create missions for you games",
+  "documentationUrl": "https://ambargames.com/",
+  "changelogUrl": "https://ambargames.com/",
+  "licensesUrl": "https://ambargames.com/",
+  "keywords": [
+    "Mission system",
+    "Missions",
+    "missionsystem"
+  ],
+  "author": {
+    "name": "CircusCharlie",
+    "email": "circuscharlie2428@gmail.com",
+    "url": "https://www.ambargames.com"
+  }
+}
