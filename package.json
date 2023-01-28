@@ -6,6 +6,10 @@
   "documentationUrl": "https://ambargames.com/",
   "changelogUrl": "https://ambargames.com/",
   "licensesUrl": "https://ambargames.com/",
+  "dependencies":
+  {
+    "com.codelibray24.editorutilities": "1.0.0"
+  },
   "keywords": [
     "Mission system",
     "Missions",
