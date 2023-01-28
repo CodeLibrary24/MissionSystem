@@ -1,6 +1,9 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
     <Style src="project://database/Assets/MissionSystem/Editor/UIDocuments/MissionSystemEditor.uss?fileID=7433441132597879392&amp;guid=573d6a745f85c9c4e948483a7bedae4d&amp;type=3#MissionSystemEditor" />
     <ui:VisualElement name="Container" style="flex-grow: 1;">
+        <uie:Toolbar style="flex-grow: 0;">
+            <uie:ToolbarBreadcrumbs style="flex-grow: 0;" />
+        </uie:Toolbar>
         <CodeLibrary24.EditorUtilities.SplitView fixed-pane-initial-dimension="800">
             <ui:VisualElement name="GraphContainer" style="flex-grow: 1; width: auto; min-width: 400px; flex-shrink: 1;">
                 <CodeLibrary24.EditorUtilities.CustomGraphView focusable="true" style="flex-grow: 1;" />
