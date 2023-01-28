@@ -1,6 +1,6 @@
 {
     "name": "com.codelibrary24.missionsystem",
-    "rootNamespace": "codelibrary24.missionsystem",
+    "rootNamespace": "CodeLibrary24.MissionSystem",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
